@@ -1,0 +1,72 @@
+* {
+    font-family: "Open Sans", sans-serif;
+}
+
+h1{
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.headline {
+    font-size: 16px;
+    font-weight: bold;
+    color: #E1624F;
+}
+
+#subtitle {
+    font-size: 16px;
+    font-style: italic;
+    color: #333333;
+    text-align: center;
+    margin-top: 24px;
+    margin-bottom: 44px;
+}
+
+.secondary-text {
+    color: #333333; 
+    text-align: left;
+}
+
+#title-list {
+    margin-top: 64px;
+    margin-bottom: 64px;
+}
+
+#content-card {
+    margin-top: 20px;
+    margin-bottom: 48px;
+}
+
+
+
+body {
+    border: solid 1px black;
+    margin: 88px 80px;
+    max-width:fit-content;
+}
+
+img {
+    width: 100%;
+    border-radius: 28px;
+}
+
+.divider {
+  width: 100%;
+  height: 1px;
+  margin: 36px 0;
+  background-color: #d9d9d9;
+}
+
+
+/* PAREI NO NEGRITO DO "BOM PARA"*/
